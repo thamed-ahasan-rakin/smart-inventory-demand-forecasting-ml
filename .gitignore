@@ -1,0 +1,22 @@
+# Python cache / environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw datasets (keep data/README.md tracked)
+data/*.csv
+
+# Generated model artifacts
+*.joblib
+*.pkl
+*.pickle
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
